@@ -1,0 +1,43 @@
+_repo: Uncle-SilasA-Tale-of-Bartram-Haugh_14851
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Le Fanu, Joseph Sheridan
+    aliases:
+    - LeFanu, J. S. (Joseph Sheridan)
+    - Fanu, J. Sheridan Le
+    - Fanu, Joseph Sheridan Le
+    birthdate: 1814
+    deathdate: 1873
+    gutenberg_agent_id: '272'
+    url: http://www.gutenberg.org/2009/agents/272
+    wikipedia: http://en.wikipedia.org/wiki/Sheridan_Le_Fanu
+description: When Maud Ruthyn is orphaned, she is sent to live with her Uncle Silas,
+  her father's mysterious brother and a man with a scandalous-- even murderous-- past.
+  There she encounters Madame de la Rougierre, a former governess, who left her father's
+  employ because she was a liar, bully, and spy. Now Maud is the only thing standing
+  between the money she will inherit from her father, and Silas' considerable debt.
+  As the November winds wail in ivied chimneys, Maud's destiny will become all too
+  clear ...
+gutenberg_bookshelf: Best Books Ever Listings
+gutenberg_issued: '2005-01-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14851'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Uncles -- Fiction'
+- !lcsh 'Murderers -- Fiction'
+- !lcsh 'Gothic fiction (Literary genre)'
+- !lcsh 'Orphans -- Fiction'
+- !lcsh 'Psychological fiction'
+- !lcsh 'Governesses -- Fiction'
+title: 'Uncle Silas: A Tale of Bartram-Haugh'
+url: http://www.gutenberg.org/ebooks/14851
