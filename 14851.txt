@@ -842,7 +842,7 @@ sepulchre, accosted the figure standing near.
 'Your mamma is alive but too far away to see or hear us. Swedenborg,
 standing here, can see and hear her, and tells me all he sees, just as I
 told you in the garden about the little boys and the cottage, and the trees
-and flowers which you could not see. You believed in when _I_ told you. So
+and flowers which you could not see, but you believed in when _I_ told you. So
 I can tell you now as I did then; and as we are both, I hope, walking on to
 the same place just as we did to the trees and cottage. You will surely see
 with your own eyes how true the description is which I give you.'
@@ -930,7 +930,7 @@ Branston the butler in the lobby.
 If I had said a man, I suppose fat Branston would have summoned and sent
 forward a detachment of footmen. As it was, he bowed gravely, with a--
 
-'Yes,'m--shall,'m.'
+'Yes, 'm--shall, 'm.'
 
 And with an air of authority approached the window.
 
@@ -955,13 +955,13 @@ And Mr. Branston returned slowly down the long room, and halted with
 out-turned pumps and a grave inclination before me, and the faintest amount
 of interrogation in the announcement--
 
-'Please,'m, she says she's the governess.'
+'Please, 'm, she says she's the governess.'
 
 'The governess! _What_ governess?'
 
 Branston was too well-bred to smile, and he said thoughtfully--
 
-'P'raps,'m, I'd best ask the master?'
+'P'raps, 'm, I'd best ask the master?'
 
 To which I assented, and away strode the flat pumps of the butler to the
 library.
@@ -980,7 +980,7 @@ me, and haunt me perpetually with her sinister looks and shrilly gabble?
 
 I was just making up my mind to go to Mary Quince, and learn something
 definite, when I heard my father's step approaching from the library: so
-I quietly re-entered the drawingroom, but with an anxious and throbbing
+I quietly re-entered the drawing-room, but with an anxious and throbbing
 heart.
 
 When he came in, as usual, he patted me on the head gently, with a kind of
@@ -1113,7 +1113,7 @@ narrative.
 
 About a week after its relation, I had my experience of a similar sort.
 Mary Quince went down-stairs for a night-light, leaving me in bed, a candle
-burning in the room, and being tired. I fell asleep before her return.
+burning in the room, and being tired, I fell asleep before her return.
 When I awoke the candle had been extinguished. But I heard a step softly
 approaching. I jumped up--quite forgetting the ghost, and thinking only of
 Mary Quince--and opened the door, expecting to see the light of her candle.
@@ -1281,7 +1281,7 @@ And off whisked Mrs. Rusk for the back staircase.
 
 There had been no common skirmish on this occasion, but a pitched battle.
 
-Madame had made a sort of pet of Anne Wixted, an underchambermaid, and
+Madame had made a sort of pet of Anne Wixted, an under-chambermaid, and
 attached her to her interest economically by persuading me to make her
 presents of some old dresses and other things. Anne was such an angel!
 
@@ -1419,7 +1419,7 @@ Madame?' I said, anxiously.
 because he was quite well.'
 
 'But that doctor is a doctor in theology, I fancy. I know he is a
-Swedenborgian; and papa is so well, he _could_ not have come as a
+Swedenborgian; and papa is so well he _could_ not have come as a
 physician.'
 
 'I am very glad, ma chere, to hear; but still you know your father is
@@ -1952,7 +1952,7 @@ I am? Your cousin Monica--Monica Knollys--and very glad, dear, to see you,
 though she has not set eyes on you since you were no longer than that
 paper-knife. Now come here to the lamp, for I must look at you. Who is she
 like? Let me see. Like your poor mother, I think, my dear; but you've the
-Aylmer nose--yes--not a bad nose either, and, come I very good eyes, upon
+Aylmer nose--yes--not a bad nose either, and, come! very good eyes, upon
 my life--yes, certainly something of her poor mother--not a bit like you,
 Austin.'
 
@@ -2115,7 +2115,7 @@ am to have dresses and everything.'
 'Well, that is better. And who is Doctor Bryerly--is your papa ill?'
 
 'Ill; oh no; he always seems just the same. You don't think him
-ill-_looking_ ill, I mean?' I asked eagerly and frightened.
+ill--_looking_ ill, I mean?' I asked eagerly and frightened.
 
 'No, my dear, he looks very well for his time of life; but why is Doctor
 What's-his-name here? Is he a physician, or a divine, or a horse-doctor?
@@ -2238,7 +2238,7 @@ Simple as I was, I felt instinctively that Madame was shamming. She was
 over-acting; her transitions were too violent, and beside she forgot that
 I knew how well she could speak English, and must perceive that she was
 heightening the interest of her helplessness by that pretty tessellation
-of foreign idiom. I there-fore said with a kind of courage which sometimes
+of foreign idiom. I therefore said with a kind of courage which sometimes
 helped me suddenly--
 
 'Oh, Madame, don't you really think you might, without much inconvenience,
@@ -2571,15 +2571,15 @@ affirmatively toward her.
 
 'You wait on my little cousin, Miss Ruthyn, don't you?'
 
-'Yes,'m,' said Mary, in her genteelest way.
+'Yes, 'm,' said Mary, in her genteelest way.
 
 'Does anyone sleep in her room?'
 
-'Yes,'m, _I_--please, my lady.'
+'Yes, 'm, _I_--please, my lady.'
 
 'And no one else?'
 
-'No,'m--please, my lady.'
+'No, 'm--please, my lady.'
 
 'Not even the _governess_, sometimes?
 
@@ -3397,7 +3397,7 @@ Lady Knollys' eyes followed her till she closed the door behind her.
 
 'So soon!'
 
-'Yes, dear; I could not stay; in fact, I should have gone tonight, but it
+'Yes, dear; I could not stay; in fact, I should have gone to-night, but it
 was too late, and I leave instead in the morning.'
 
 'I am so sorry--so _very_ sorry,' I exclaimed, in honest disappointment,
@@ -6915,7 +6915,7 @@ they affect to question anything so clear?' I asked.
 gave those who chose to talk unpleasantly an opportunity of insinuating
 suspicions, though they could not themselves find the clue of the mystery.
 In the first place, it appeared that he had gone to bed very tipsy, and
-that he was heard sing ing and noisy in his room while getting to bed--not
+that he was heard singing and noisy in his room while getting to bed--not
 the mood in which men make away with themselves. Then, although his own
 razor was found in that dreadful blood (it is shocking to have to hear all
 this) near his right hand, the fingers of his left were cut to the bone.
@@ -6994,7 +6994,7 @@ deal worse.'
 My cousin paused to recollect exactly.
 
 'There were very disagreeable whispers among the sporting people in London.
-This person, Charke, had written two letters, Yes--two. They were published
+This person, Charke, had written two letters. Yes--two. They were published
 about two months after, by the villain to whom they were written; he wanted
 to extort money. They were first talked of a great deal among that set in
 town; but the moment they were published they produced a sensation in the
@@ -8064,7 +8064,7 @@ quaint little inn where we now halted, that we must wait for a nail or two
 in a loose shoe of one of our relay, we consulted, and being both hungry,
 agreed to beguile the time with an early dinner, which we enjoyed very
 sociably in a queer little parlour with a bow window, and commanding, with
-a litle garden for foreground, a very pretty landscape.
+a little garden for foreground, a very pretty landscape.
 
 Good Mary Quince, like myself, had quite dried her tears by this time, and
 we were both highly interested, and I a little nervous, too, about our
@@ -8378,7 +8378,7 @@ L'Amour for shortness;' and she laughed hilariously, and I could not
 forbear joining; and, winking at me, she called aloud, 'L'Amour.'
 
 To which the crone, with a high-cauled cap, resembling Mother Hubbard,
-responded with a courtesy and 'Yes,'m.'
+responded with a courtesy and 'Yes, 'm.'
 
 'Are all the trunks and boxes took up?'
 
@@ -8752,7 +8752,7 @@ carriage-wheels, or trodden by the feet of visitors. This melancholy
 verdure thickened where the area was more remote from the centre; and under
 the windows, and skirting the walls to the left, was reinforced by a thick
 grove of nettles. The avenue was all grass-grown, except in the very
-centre, where a narrow track still showed the roadway The handsome carved
+centre, where a narrow track still showed the roadway. The handsome carved
 balustrade of the court-yard was discoloured with lichens, and in two
 places gapped and broken; and the air of decay was heightened by the fallen
 trees, among whose sprays and yellow leaves the small birds were hopping.
@@ -9080,7 +9080,7 @@ to-morrow.'
 
 'To-morrow be hanged! you'll do it to-day, bury-me-wick, but you _shall_;
 I'm wearying to see you make a picture, and I'll fetch your conundrums out
-o' your drawer, for do't you shall.'
+o' your drawer, for do 't you shall.'
 
 
 
@@ -9152,7 +9152,7 @@ I made no answer, but I believe I looked both angrily and disdainfully.
 'And what make ye alone here? and how was I to know't, an' Milly not wi'
 ye, nor no one? But Maud or no Maud, I wouldn't let the Dooke hisself set
 foot inside the palin' without Silas said let him. And you may tell Silas
-them's the words o' Dickon Hawkes, and I'll stick to'm--and what's more
+them's the words o' Dickon Hawkes, and I'll stick to 'm--and what's more
 I'll tell him _myself_--I will; I'll tell him there be no use o' my
 striving and straining hee, day an' night and night and day, watchin' again
 poachers, and thieves, and gipsies, and they robbing lads, if rules won't
@@ -17542,7 +17542,7 @@ So, with those unpleasant words tingling in my ears, I obeyed.
 
 '_Write_,' said he, when I was duly placed. 'You shall convey the substance
 of what I say in your own language. The immiment danger this morning
-announced of an execution--rememher the word,' and he spelled it for
+announced of an execution--remember the word,' and he spelled it for
 me--'being put into this house either this afternoon or to-morrow, compels
 me to anticipate my plans, and despatch you for France this day. That you
 are starting with an attendant.' Here an uneasy movement from Madame,
@@ -18746,7 +18746,7 @@ trusted, however, with the truth. That was to be known but to three people
 on earth.
 
 I never knew, but I believe that the spiced claret which Madame drank was
-drugged. She was a person who could, I have been told. Drink a great deal
+drugged. She was a person who could, I have been told, drink a great deal
 without exhibiting any change from it but an inflamed colour and furious
 temper. I can only state for certain what I saw, and that was, that shortly
 after she had finished the claret she laid down upon my bed, and, I now
